@@ -16,3 +16,11 @@ Desafio de projeto da DIO-TQI-Módulo-1 sobre git/github.
 - [Componentes, Layouts e UI/UX Em Apps Android](https://web.dio.me/course/componentes-layouts-e-uiux-em-apps-android/learning/617ea9b7-cb37-4f99-a307-e9b6001f179e/?back=/browse);
 - [Java e Kotlin Juntos!? Construindo Apps Android](https://web.dio.me/course/java-e-kotlin-juntos-construindo-apps-android/learning/0c48a2e4-2ad1-4fa7-8b52-9b407ec20f85/?back=/browse);
 - [Explorando o Firebase Para Apps Android Resilientes](https://web.dio.me/course/explorando-o-firebase-para-apps-android-resilientes/learning/2f255e6a-042a-4b88-89df-c6cc54ddbc9e/?back=/browse);
+
+## Cursos sobre Desenvolvimento JavaScript 💻:
+
+- [Sintaxe Básica em JavaScript](https://web.dio.me/course/sintaxe-basica-em-javascript/learning/780c7e66-bc21-401f-b3ea-c844898b3614/?back=/browse);
+- [Programação para internet com JavaScript](https://web.dio.me/course/programacao-para-internet-com-javascript/learning/33e81edf-6f9b-4b97-b3c6-12d930cf0831/?back=/browse);
+- [JavaScript ES6 essencial](https://web.dio.me/course/javascript-es6-essencial/learning/183aad79-0e6d-4acb-880f-b0e179824a81/?back=/browse);
+- [Desenvolvimento avançado com JavaScript ES6](https://web.dio.me/course/desenvolvimento-avancado-com-javascript-es6/learning/75ee88ab-99f3-4ab8-8620-7efafcb26481/?back=/browse);
+- [Introdução à biblioteca jQuery](https://web.dio.me/course/jquery-essencial/learning/3b07becd-4b8c-4538-ae36-532dc6b27866/?back=/browse);
